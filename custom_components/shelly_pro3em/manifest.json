@@ -1,0 +1,10 @@
+{
+  "domain": "shelly_pro3em_ws",
+  "name": "Shelly Pro 3EM (WebSocket, no auth)",
+  "codeowners": [],
+  "config_flow": true,
+  "documentation": "https://shelly-api-docs.shelly.cloud/gen2/Devices/Gen2/ShellyPro3EM",
+  "iot_class": "local_push",
+  "version": "0.1.0",
+  "requirements": []
+}
